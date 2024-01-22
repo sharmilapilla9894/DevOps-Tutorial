@@ -76,7 +76,7 @@ You have now created a GitHub repository and cloned it to your local machine.
 2. Clone the forked repository to your local machine:
 
 ```
-git clone [forked repository URL]
+git clone [forked SSH repository URL]
 ```
 
 3. Create a new branch for your changes:
@@ -274,7 +274,7 @@ This command will create a new branch with the specified name and switch
 - step 4: Click on ssh key 
 - step 5: Copy and paste your pub key 
 - Step 6: Click OK 
-- Step 7: Clone your repo 
+- Step 7: Clone your repo with SSH URL 
 
 ## Create ssh key in your lab vm 
 
